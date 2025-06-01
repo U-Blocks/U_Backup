@@ -2,6 +2,9 @@
 
 <code><a href="https://github.com/umarurize/UTP"><img height="25" src="https://github.com/umarurize/U_Backup/blob/master/logo/logo.jpg" alt="U-Backup" /></a>&nbsp;U-Backup</code>
 
+### :maple_leaf:Attention!
+U-Backup only packages the `worlds` folder into a `.zip` file for backup.
+
 ### 🔔Introductions
 * **Two backup modes**
 - [x] Manual backup
