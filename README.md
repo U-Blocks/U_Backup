@@ -2,6 +2,9 @@
 
 <code><a href="https://github.com/umarurize/UTP"><img height="25" src="https://github.com/umarurize/U_Backup/blob/master/logo/logo.jpg" alt="U-Backup" /></a>&nbsp;U-Backup</code>
 
+![Total Git clones](https://img.shields.io/badge/dynamic/json?label=Total%20Git%20clones&query=$&url=https://cdn.jsdelivr.net/gh/umarurize/U_Backup@master/clone_count.txt&color=brightgreen)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/umarurize/U_Backup/total)
+
 ### :maple_leaf:Attention!
 U-Backup only packages the `worlds` folder into a `.zip` file for backup.
 
