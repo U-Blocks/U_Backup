@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-ubackup"
+version = "250601"
+description = "A simple but powerful backup plugin"
+
+[project.entry-points."endstone"]
+ubackup = "endstone_ubackup:ubackup"
